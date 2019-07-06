@@ -1,0 +1,7 @@
+Detonation Site
+This blockade was clearly put up by local bandits, but to what end? What were they trying to keep out?{^n}{^n}It will take 1 Dynamite to destroy.
+Not enough Dynamite.
+Destroy the Barricade.
+Leave it.
+You have cleared this barricade.
+Ok.
