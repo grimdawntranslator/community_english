@@ -134,6 +134,7 @@ tagGDX1WeaponGun2hF101=Malmouth Carbine
 tagGDX1WeaponGun2hF102=Malmouth Rifle
 tagGDX1WeaponGun2hF103=Wendigo Stakethrower
 tagGDX1WeaponGun2hF104=The Desolator
+tagGDX1WeaponGun2hF104_Desc="Every foe a mere delay to the desolation that follows."
 
 
 tagGDX1WeaponMelee2hB101=Fleshwarped Core
