@@ -72,6 +72,7 @@ Now don't be like that.{^n}{^n}A man makes an honest deal with you and this is h
 I'll seek out the Iris.
 I'm not working for you.
 
+
 I already have the Iris.
 You are a legend in the making, my friend!{^n}{^n}Hand it here and you and I are settled.{^n}{^n}In fact, I'll throw in one last prize, no favors necessary.
 
@@ -120,7 +121,7 @@ And off I go again.
 Well look who it is. {^n}{^n}You having second thoughts?{^n}{^n}Ready to make a deal? {^n}
 Yes, I'm ready.
 That's what I like to hear.{^n}{^n}You remember how this works right? {^n}{^n}I give you the goods and then you owe me.
-Yup. 
+Yup.
 Well then, here you go.{^n}{^n}I'll tell ya what. If you come back sometime later I might even have something else for ya.{^n}{^n}At the right price of course.
 I'll be back.
 Of course.
@@ -152,7 +153,7 @@ I don't want any part of this.
 Sounds like a racket to me.
 You have anything for me?
 See, now you're getting it.{^n}{^n}That's what I'm talking about, [[ms]he[fs]she] wants to make a deal.{^n}{^n}Let me think for a second...{^n}{^n}Yes, come to think of it I do have something for you.{^n}{^n}You know what this means of course? You're going to owe me and some day I'm going to come to collect.{^n}{^n}Do we have a deal?
-Yes, lets do this. 
+Yes, lets do this.
 Well, here you go.{^n}{^n}I'll tell you what. If you come back sometime later I might even have something else for you.{^n}{^n}At the right price, of course.
 Of course.
 I'll be back.
