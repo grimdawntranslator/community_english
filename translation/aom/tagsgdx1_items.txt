@@ -736,7 +736,7 @@ tagGDX1NecklaceD102=Flames of Wrath
 tagGDX1NecklaceD103=Vigar's Hunger
 tagGDX1NecklaceD103_Desc="The phial is filled with blood from the wendigo Ravager itself."
 tagGDX1NecklaceD104=Tainted Ruby of Gar'dal
-tagGDX1NecklaceD105=Executioner's judgment
+tagGDX1NecklaceD105=Executioner's Judgment
 tagGDX1NecklaceD106=Stormseer Sapphire
 tagGDX1NecklaceD113A=Conduit of Warring Whispers
 tagGDX1NecklaceD113B=Conduit of Destructive Whispers
@@ -1877,7 +1877,6 @@ tagGDX1Door_Puppetmaster=Living Flesh Door
 tagGDX1DLCIllusionA01=Illusion: Black Knight Armor
 tagGDX1DLCA01=Black Knight Armor
 tagGDX1DLCA01Desc="The sinister Black Knight Armor."
-
 
 tagGDX1DLCIllusionA02=Illusion: Silver Knight Armor
 tagGDX1DLCA02=Silver Knight Armor
