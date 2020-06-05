@@ -1359,7 +1359,7 @@ tagItemSkillC138Name=Oathbreaker
 tagItemSkillC138Desc=The Oathbreaker fires an explosive round teeming with dark powers. ^oActivates off of default weapon attacks.
 
 tagItemSkillC139Name=Corrupting Touch of Aldritch
-tagItemSkillC139Desc=The corrupting energies of the Aldritch's scepter lash out at your foes.
+tagItemSkillC139Desc=The corrupting energies of Aldritch's scepter lash out at your foes.
 
 tagItemSkillM005Name=Berserk
 tagItemSkillM005Desc=Enter a berserker state of mind, lashing out with increased ferocity at the cost of survivability.
