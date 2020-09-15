@@ -322,6 +322,9 @@ tagGDX2ItemSkillD262Name=World Gate
 tagGDX2ItemSkillD262Desc=Tear a rift in reality that unravels foes that stand within it. ^oWorld Gates scale with Pet Bonuses.
 tagGDX2ItemSkillD262PetSkill_Name=Unravel
 
+tagGDX2ItemSkillD263Name=Keeper of the Veil
+tagGDX2ItemSkillD263Desc=You are filled with resolute purpose fueled by the shattered realm's unstable energies.
+
 
 #Component Skills
 tagGDX2CompSkillA033Name=Void Weapons
