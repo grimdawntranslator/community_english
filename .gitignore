@@ -1,7 +1,14 @@
 
-*
-!.github
-!tools
-!translation
+# Exclude all files
+/*
 
-*.zip
+# Include folders
+!/.github
+!/tools
+!/translation
+
+# Include files
+!.gitignore
+!build_zip.bat
+!README.md
+!*.txt
