@@ -705,7 +705,7 @@ tagGDX2EnemySkillD13=Impaling Spikes
 tagGDX2EnemySkillD13_Desc=Impaled by poisoned spikes, pinning you to the ground.
 
 tagGDX2EnemySkillD14=Celestial Presence
-tagGDX2EnemySkillD14_Desc=You stand awe of a celestial being
+tagGDX2EnemySkillD14_Desc=You stand in awe of a celestial being.
 
 tagGDX2EnemySkillD15=Celestial Effigy
 tagGDX2EnemySkillD15_Desc=An nearby effigy empowers Korvaak and harms mortals.
