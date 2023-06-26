@@ -1458,7 +1458,7 @@ tagItemSkillD039Name=Bloodfury
 tagItemSkillD039Desc=Taking harm boils your arcane blood, empowering your dark spellwork.
 
 tagItemSkillD040Name=Blood Rite
-tagItemSkillD040Desc=The dark blood of Ch'thon corrupts all that it touches, even the arcane.
+tagItemSkillD040Desc=The dark blood of Ch'thon corrupts all that it touches, even the arcane. ^oThis ability must be toggled to maintain its effect.
 
 tagItemSkillD041Name=Blood Song
 tagItemSkillD041Desc=You swing your blade in perfect harmony, inflicting deeper wounds and cleaving to nearby foes.
